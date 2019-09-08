@@ -14,7 +14,7 @@
     "typescript": "^3.5.3"
   },
   "scripts": {
-    "start": "tsc index.ts && electron index.js",
+    "start": "tsc *.ts && electron index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
