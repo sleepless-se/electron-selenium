@@ -9,8 +9,8 @@
   },
   "devDependencies": {
     "@types/selenium-webdriver": "^4.0.2",
-    "electron": "^15.5.5",
-    "electron-packager": "^14.0.5",
+    "electron": "^23.2.0",
+    "electron-packager": "^17.1.1",
     "typescript": "^3.5.3"
   },
   "scripts": {
