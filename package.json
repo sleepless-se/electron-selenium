@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "dependencies": {
-    "chromedriver": "^76.0.1",
+    "chromedriver": "^119.0.1",
     "selenium-webdriver": "^4.0.0-alpha.4"
   },
   "devDependencies": {
